@@ -15,11 +15,3 @@ Setup:
 You should install OpenCore Legacy Patcher. SIP already disabled (0xA03) on config so you don't need to.
 
 "Resources" folder not uploaded.
-#
-Contact me if you have any problems 
-
-or 
-
-you have slightly different setup so you're having difficulty.
-
-jpark6502@protonmail.com
